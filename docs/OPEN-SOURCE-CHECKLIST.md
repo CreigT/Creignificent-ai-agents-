@@ -6,6 +6,24 @@
 - [ ] Maturity status is accurate.
 - [ ] CREIGNIFICENT LLC branding is correct.
 
+## Repository Contract
+- [ ] README.md
+- [ ] LICENSE
+- [ ] CONTRIBUTING.md
+- [ ] SECURITY.md
+- [ ] CODE_OF_CONDUCT.md
+- [ ] CHANGELOG.md
+- [ ] .env.example
+- [ ] .gitignore
+- [ ] docs/ARCHITECTURE.md
+- [ ] docs/SETUP.md
+- [ ] docs/SECURITY.md
+- [ ] docs/ROADMAP.md
+- [ ] src/ or documented framework-native source structure
+- [ ] tests/
+- [ ] examples/
+- [ ] “Sponsored by CREIGNIFICENT LLC” retained in project presentation
+
 ## Source
 - [ ] Core workflow is implemented for claimed maturity.
 - [ ] Demo behavior is not described as production functionality.
