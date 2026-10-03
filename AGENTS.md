@@ -30,7 +30,7 @@ Working master inventory. Status starts at CONCEPT until repository evidence sup
 24. DepositFlow AI — Business — CONCEPT
 25. QuoteGuard AI — Business — CONCEPT
 26. HomeSafe AI — Life — CONCEPT
-27. ScamShield AI — Cybersecurity — CONCEPT
+27. [ScamShield AI](agents/scamshield-ai/README.md) — Cybersecurity — WORKING
 28. ProofCart AI — Commerce — CONCEPT
 29. ClaimReady AI — Business — CONCEPT
 30. ReturnGuard AI — Commerce — CONCEPT
