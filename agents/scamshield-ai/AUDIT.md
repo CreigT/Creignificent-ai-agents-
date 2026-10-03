@@ -24,3 +24,20 @@ Audit target: CreigT/scamshield-ai, main branch.
 WORKING.
 
 Reason: implemented core workflow + tests + successful CI + deployable application structure. PRODUCTION is intentionally withheld until the remaining release/security/license checklist is completed and current deployment evidence is verified.
+
+
+## v1.0.0 Release Gate — PASS
+
+Release target commit: `9245b98b26c98c632ec7a8ee36389bd6451878f0`
+
+- Historical high-confidence secret signature scan: PASS across 13 commits / 40 unique historical blobs inspected.
+- Governance files: present in dedicated repository.
+- Direct dependency / bundled asset license review: documented.
+- Apache-2.0 license: full canonical text installed.
+- GitHub Actions CI run 37086464253: completed successfully on the release target commit.
+- Existing release conflict: none observed.
+- Existing tag-ref conflict for v1.0.0: none observed.
+
+**Release decision:** eligible for a `v1.0.0` tag/release.
+
+Maturity remains **WORKING** until a live production deployment and its operational controls are independently verified.
